@@ -1,0 +1,5 @@
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\LINQChapter1\LINQChapter1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\LINQChapter1\LINQChapter1\bin\Debug\LINQChapter1.exe
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\LINQChapter1\LINQChapter1\bin\Debug\LINQChapter1.pdb
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\LINQChapter1\LINQChapter1\obj\Debug\LINQChapter1.exe
+C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2008\Projects\LINQChapter1\LINQChapter1\obj\Debug\LINQChapter1.pdb
